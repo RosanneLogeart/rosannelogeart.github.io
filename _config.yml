@@ -86,7 +86,7 @@ author:
   avatar           : "/assets/images/RosanneLogeart1.jpg"
   bio              : "PhD Candidate"
   location         : "Paris, France"
-  employer         : "https://www.parisschoolofeconomics.eu/en/logeart-rosanne/"
+  employer         : https://www.parisschoolofeconomics.eu/en/logeart-rosanne/
   pubmed           : 
   googlescholar    : 
   email            : "rosanne.logeart@psemail.eu"
