@@ -15,4 +15,6 @@ Welcome to my website!
 
 * I am currently a teaching fellow at Sciences Po. I visited UC Berkeley in 2022-2023.
 
+* You can contact me at rosanne.logeart(at)psemail.eu
+
 
