@@ -85,11 +85,11 @@ author:
   name             : "Rosanne Logeart"
   avatar           : "/assets/images/RosanneLogeart1.jpg"
   bio              : "PhD Candidate"
-  location         : "Paris, FRANCE"
-  employer         :
+  location         : "Paris, France"
+  employer         : "https://www.parisschoolofeconomics.eu/en/logeart-rosanne/"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "rosanne.logeart@psemail.eu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
