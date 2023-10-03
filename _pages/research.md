@@ -1,10 +1,7 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /research/
+title: "Research"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
 
 ## Does Access Mean Success? Connection to Policy-Makers and Lobbying Success of Political Actors
