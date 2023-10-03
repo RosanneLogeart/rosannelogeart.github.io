@@ -15,6 +15,7 @@ url                      : https://rosannelogeart.github.io # the base hostname 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rosannelogeart/academicpages.github.io"
 logo                     : "/assets/images/RosanneLogeart1.jpg"
+search                   : true
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
