@@ -9,21 +9,7 @@ redirect_from:
 
 ## Does Access Mean Success? Connection to Policy-Makers and Lobbying Success of Political Actors
 
+> This article aims at understanding the policy-making process. It analyzes the relationship between access to policy-makers and lobbying success. I collect unique data on the textual content of lobbying activities, as well as subsequent policy changes. It enables me to identify instances of lobbying success. I match this novel data with the meetings held between policy-makers and lobbyists to measure access of lobbyists to policy-makers. It shows that the business sector has more access to policy-makers than the civil society has. I find that having access to policy-makers is associated with higher likelihoods of success in lobbying. Distinguishing past access and contemporaneous access to policy-makers, past access to policy-makers seems to be driving this result. It suggests that reputation and connection building play a critical role. Interacting access and lobbyist type, I find that the business sector benefits more from access through higher likelihood of lobbying success, in addition to having more access. Surprisingly, NGOs display opposite patterns. NGOs benefit from access contemporaneous to their lobbying activities while they are relatively worse off when having past access. They do not seem to build reputation and/or connection through this past access.
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
-
-## Tips and hints
-
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
+## Does Access Mean Success? Connection to Policy-Makers and Lobbying Success of Political Actors
+with [Jeanne Bomare](https://github.com/academicpages/academicpages.github.io/commits/master)
