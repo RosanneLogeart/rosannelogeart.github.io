@@ -15,7 +15,7 @@ url                      : https://rosannelogeart.github.io # the base hostname 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rosannelogeart/academicpages.github.io"
 search                   : true
-teaser                   : "/assets/images/RosanneLogeart500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : /assets/images/RosanneLogeart500x300.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -49,6 +49,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+og_image                 : /assets/images/RosanneLogeart1.png
 
 # SEO Related
 google_site_verification :
