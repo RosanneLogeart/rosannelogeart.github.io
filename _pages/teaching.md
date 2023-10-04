@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ### Teaching experience
+<font size = 10> Test <\font>
 * Tutorials in **Trade and International Finance**, Sciences Po, Undergraduate students (Fall 2023)
 * Lecture on **Lobbying over Environmental Issues**, Paris 1 Panthéon-Sorbonne University, Graduate students (Spring 2022)
 * Tutorials in **Econometrics**, Paris 1 Panthéon-Sorbonne University, Undergraduate students (Spring 2022)
