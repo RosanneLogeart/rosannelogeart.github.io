@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Rosanne Logeart"
-  avatar           : "/assets/images/RosanneLogeart1.jpg"
+  avatar           : /assets/images/RosanneLogeart1.jpg
   bio              : "PhD Candidate"
   location         : "Paris, France"
   employer         : 
