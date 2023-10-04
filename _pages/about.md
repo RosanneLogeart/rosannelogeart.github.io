@@ -17,6 +17,6 @@ Welcome to my website!
 
 * My research focuses on the role of **lobbying** in policy-making processes. In particular, I investigate how **political connection** or **reputation** relate to lobbying success. I also study the consequences of **revolving doors**.
 
-* You can contact me at *rosanne.logeart(at)psemail.eu*.
+* You can find my CV [here](https://drive.google.com/file/d/1kwgoyTCs-K1QaPVD9JN_2dbvUhTeVCeQ/view?usp=share_link) and contact me at *rosanne.logeart(at)psemail.eu*.
 
 
