@@ -15,6 +15,6 @@ Welcome to my website!
 
 * I am currently a teaching fellow at [Sciences Po](https://www.sciencespo.fr/department-economics/). I visited [UC Berkeley](https://www.econ.berkeley.edu) in 2022-2023.
 
-* You can contact me at rosanne.logeart(at)psemail.eu
+* You can contact me at rosanne.logeart(at)psemail.eu.
 
 
