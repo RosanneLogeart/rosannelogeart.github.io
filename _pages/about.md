@@ -15,7 +15,7 @@ Welcome to my website!
 
 * I am currently a teaching fellow at [Sciences Po](https://www.sciencespo.fr/department-economics/). I visited [UC Berkeley](https://www.econ.berkeley.edu) in 2022-2023.
 
-* My research focuses on the role of **lobbying** in policy-making processes. In particular, I investigate how political connection or reputation relate to lobbying success. I also study the consequences of **revolving doors**.
+* My research focuses on the role of **lobbying** in policy-making processes. In particular, I investigate how **political connection** or **reputation** relate to lobbying success. I also study the consequences of **revolving doors**.
 
 * You can contact me at rosanne.logeart(at)psemail.eu.
 
