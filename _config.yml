@@ -63,7 +63,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : /assets/images/RosanneLogeart1.png # Open Graph/Twitter default site image
+og_image                 : /assets/images/RosanneLogeart.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Rosanne Logeart"
-  avatar           : /assets/images/RosanneLogeart1.jpg
+  avatar           : /assets/images/RosanneLogeart.png
   bio              : "PhD Candidate"
   location         : "Paris, France"
   employer         : 
