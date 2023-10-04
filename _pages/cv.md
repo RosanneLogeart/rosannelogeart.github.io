@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+<embed src="https://rosannelogeart.github.io/assets/download/cv.pdf" type="application/pdf" />
+
 {% include base_path %}
 
 Education
