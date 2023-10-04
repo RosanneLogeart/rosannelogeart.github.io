@@ -5,38 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-\begin{rSection}{Teaching}
-{\bf Lecturer at Sciences Po} - Undergraduate level%Instructor? 
-\\
-\textit{Trade and International Finance} \hfill {Fall 2023}
-
-{\bf Lecturer at Paris 1 Panthéon-Sorbonne University} - Graduate level%Instructor? 
-\\
-\textit{Topics in Environmental Economics}, one session about lobbying \hfill {Spring 2022}
-
-{\bf Teaching assistant at Paris 1 Panthéon-Sorbonne University} - Undergraduate level
-\\
-\textit{Introduction to Econometrics} \hfill {Spring 2022}
-\\
-\textit{Microeconomics: Competitive Equilibrium and Market Failures} \hfill {Fall 2020 and Fall 2021}
-%{\parskip=0cm \hspace{3ex} Professor Stéphane Gauthier \par}
-\\
-\textit{Microeconomics: Market Structure and Firm Strategy} \hfill {Spring 2021}
-%{\parskip=0cm \hspace{3ex} Professors Claire Pignol and Jean-Philippe Tropéano \par}
-
-
-{\bf Teaching assistant at Paris Descartes University} - Undergraduate level
-\\
-\textit{Mathematical Tools for Microeconomics} \hfill {Spring and Fall 2019}
-%Prof M.-H. Jeanneret-Crettez
-\\
-\textit{Quantitative Tools for Economics and Management} \hfill {Fall 2018}
-%Prof N. Sirven
-
-\end{rSection}
+### Teaching experience
+* **Fall 2023**: Tutorials in Trade and International Finance, Sciences Po, Undergraduate students
+* **Spring 2022**: Lecture on Lobbying over Environmental Issues, Paris 1 Panthéon-Sorbonne University, Graduate students
+* **Spring 2022**: Tutorials in Econometrics, Paris 1 Panthéon-Sorbonne University, Undergraduate students
+* **Fall 2020, Fall 2021, Spring 2021**: Tutorials in Microeconomics, Paris 1 Panthéon-Sorbonne University, Undergraduate students
+* **Spring 2019, Fall 2019**: Tutorials in Mathematics, Paris Descartes University, Undergraduate students
+* **Fall 2018**: Tutorials in Statistics, Paris Descartes University, Undergraduate students
