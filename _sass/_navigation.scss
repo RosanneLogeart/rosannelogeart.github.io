@@ -34,11 +34,12 @@
     font-size: $type-size-6;
 
     @include breakpoint($large) {
-      @include span(10 of 12 last);
+      float: right;
+      width: calc(100% - #{$right-sidebar-width-narrow});
     }
 
     @include breakpoint($x-large) {
-      @include prefix(0.5 of 12);
+      width: calc(100% - #{$right-sidebar-width});
     }
   }
 
