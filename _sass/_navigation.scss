@@ -365,6 +365,13 @@
   border-bottom: 1px solid $border-color;
 }
 
+.site-nav {
+  float: right; /* Déplace les éléments de la barre de navigation vers la droite */
+}
+
+.site-title {
+  float: left; /* Maintient le titre du site à gauche */
+}
 
 /*
    Table of contents navigation
