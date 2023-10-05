@@ -347,6 +347,7 @@
 }
 
 .nav__title {
+  float: left;
   margin: 0;
   padding: 0.5rem 1rem;
   font-family: $sans-serif-narrow;
@@ -363,14 +364,6 @@
   font-weight: bold;
   text-transform: uppercase;
   border-bottom: 1px solid $border-color;
-}
-
-.site-nav {
-  float: right; /* Déplace les éléments de la barre de navigation vers la droite */
-}
-
-.site-title {
-  float: left; /* Maintient le titre du site à gauche */
 }
 
 /*
