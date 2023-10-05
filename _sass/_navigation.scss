@@ -7,22 +7,16 @@
    ========================================================================== */
 
 .breadcrumbs {
-  @include container;
   @include clearfix;
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-left: 2em;
-  padding-right: 2em;
+  margin: 0 auto;
+  max-width: 100%;
+  padding-left: 1em;
+  padding-right: 1em;
   font-family: $sans-serif;
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.30s;
-          animation-delay: 0.30s;
-
-  @include breakpoint($large) {
-    padding-left: 1em;
-    padding-right: 1em;
-  }
+  -webkit-animation: $intro-transition;
+  animation: $intro-transition;
+  -webkit-animation-delay: 0.3s;
+  animation-delay: 0.3s;
 
   @include breakpoint($x-large) {
     max-width: $x-large;
@@ -52,16 +46,16 @@
   }
 }
 
-
 /*
-   Post pagination navigation links
-   ========================================================================== */
+     Post pagination navigation links
+     ========================================================================== */
 
 .pagination {
-  @include full();
   @include clearfix();
+  float: left;
   margin-top: 1em;
   padding-top: 1em;
+  width: 100%;
 
   ul {
     margin: 0;
@@ -76,6 +70,7 @@
     margin-left: -1px;
 
     a {
+      display: block;
       margin-bottom: 0.25em;
       padding: 0.5em 1em;
       font-family: $sans-serif;
@@ -84,21 +79,22 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
-      border: 1px solid $light-gray;
+      color: $muted-text-color;
+      border: 1px solid mix(#000, $border-color, 25%);
       border-radius: 0;
 
       &:hover {
         color: $link-color-hover;
       }
 
-      &.current {
+      &.current,
+      &.current.disabled {
         color: #fff;
         background: $primary-color;
       }
 
       &.disabled {
-        color: mix(#fff, $gray, 75%);
+        color: rgba($muted-text-color, 0.5);
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -132,12 +128,12 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: mix(#fff, $gray, 50%);
-    border: 1px solid $light-gray;
+    color: $muted-text-color;
+    border: 1px solid mix(#000, $border-color, 25%);
     border-radius: $border-radius;
 
     &:hover {
-      color: $link-color-hover;
+      @include yiq-contrasted($muted-text-color);
     }
 
     &:first-child {
@@ -152,7 +148,7 @@
     }
 
     &.disabled {
-      color: mix(#fff, $gray, 75%);
+      color: rgba($muted-text-color, 0.5);
       pointer-events: none;
       cursor: not-allowed;
     }
@@ -168,10 +164,9 @@
   border-top: 1px solid $border-color;
 }
 
-
 /*
-   Priority plus navigation
-   ========================================================================== */
+     Priority plus navigation
+     ========================================================================== */
 
 .greedy-nav {
   position: relative;
@@ -339,10 +334,9 @@
   }
 }
 
-
 /*
-   Navigation list
-   ========================================================================== */
+     Navigation list
+     ========================================================================== */
 
 .nav__list {
   margin-bottom: 1.5em;
@@ -505,19 +499,17 @@
   border-bottom: 1px solid $border-color;
 }
 
-
 /*
-   Table of contents navigation
-   ========================================================================== */
+     Table of contents navigation
+     ========================================================================== */
 
 .toc {
   font-family: $sans-serif-narrow;
   color: $gray;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  background-color: #fff;
+  background-color: $background-color;
   border: 1px solid $border-color;
   border-radius: $border-radius;
+  -webkit-box-shadow: $box-shadow;
   box-shadow: $box-shadow;
 
   .nav__title {
@@ -527,6 +519,11 @@
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
+
+  // Scrollspy marks toc items as .active when they are in focus
+  .active a {
+    @include yiq-contrasted($active-color);
+  }
 }
 
 .toc__menu {
@@ -534,40 +531,43 @@
   padding: 0;
   width: 100%;
   list-style: none;
-  font-size: 0.8rem;
+  font-size: $type-size-6;
+
+  @include breakpoint($large) {
+    font-size: $type-size-7;
+  }
 
   a {
     display: block;
-    padding: 0.5rem 1rem;
-    color: $gray;
-    font-size: $type-size-7;
+    padding: 0.25rem 0.75rem;
+    color: $muted-text-color;
     font-weight: bold;
     line-height: 1.5;
     border-bottom: 1px solid $border-color;
 
     &:hover {
-      color: #000;
-      background: $lighter-gray;
-    }
-  }
-
-  > li:last-child {
-    a {
-      border-bottom: none;
+      color: $text-color;
     }
   }
 
   li ul > li a {
-    padding-left: 2rem;
+    padding-left: 1.25rem;
     font-weight: normal;
   }
 
-  /* hide sub sub links on small screens*/
-  li > ul li {
-    display: none;
+  li ul li ul > li a {
+    padding-left: 1.75rem;
+  }
 
-    @include breakpoint($medium) {
-      display: block;
-    }
+  li ul li ul li ul > li a {
+    padding-left: 2.25rem;
+  }
+
+  li ul li ul li ul li ul > li a {
+    padding-left: 2.75rem;
+  }
+
+  li ul li ul li ul li ul li ul > li a {
+    padding-left: 3.25rem
   }
 }
