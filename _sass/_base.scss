@@ -279,9 +279,7 @@ svg:not(:root) {
  *  </nav>
  */
 
-nav {/* Move the navigation bar to the right */
-  float: right; /* or use text-align: right; */
-
+nav {
   ul {
     margin: 0;
     padding: 0;
