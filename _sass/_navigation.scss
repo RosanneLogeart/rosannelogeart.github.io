@@ -46,18 +46,6 @@
   }
 }
 
-.mobile-menu-toggle {
-  display: none; /* Hide the button by default on larger screens */
-  /* Add styles for the button appearance (e.g., background color, size) */
-}
-
-/* Media query to show the button on smaller screens */
-@media screen and (max-width: 768px) {
-  .mobile-menu-toggle {
-    display: block; /* Display the button on smaller screens */
-    /* Add styles for the button appearance on smaller screens */
-  }
-}
 /*
      Post pagination navigation links
      ========================================================================== */
