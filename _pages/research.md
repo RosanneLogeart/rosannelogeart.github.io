@@ -20,5 +20,5 @@ with [Jeanne Bomare](https://sites.google.com/view/jeanne-bomare/about)
 
 ## Non-Academic Publications
 
-### Trajectoires vers l’objectif zéro artificialisation nette. Éléments de méthode (Paths to net zero land take. Methodology)
+### Trajectoires vers l’objectif zéro artificialisation nette. Éléments de méthode (Paths to net zero land take. Methodology) \[(PDF)[https://drive.google.com/file/d/14M3AHTfMYCSh7YZ_6N1MzLCJ58aeVsdG/view?usp=sharing]\]
 Media coverage: 
