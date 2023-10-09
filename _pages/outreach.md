@@ -16,6 +16,6 @@ Since the arrest in December 2022 of a vice-president of the European Parliament
  
  
 With the participation of:
-** Manon Aubry, Member of the European Parliament
-** Rosanne Logeart, PhD student in economics, Paris School of Economics/Berkeley
-** Emilia Korkea-aho, Professor of European Law and Legislative Studies, UEF Law School, University of Eastern Finland
+  * Manon Aubry, Member of the European Parliament
+  * Rosanne Logeart, PhD student in economics, Paris School of Economics/Berkeley
+  * Emilia Korkea-aho, Professor of European Law and Legislative Studies, UEF Law School, University of Eastern Finland
