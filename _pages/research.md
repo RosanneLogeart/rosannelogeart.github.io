@@ -26,4 +26,4 @@ with [Jeanne Bomare](https://sites.google.com/view/jeanne-bomare/about)
 
 * **Objectif zéro artificialisation nette: quels leviers pour protéger les sols?** (Net zero land take objective: what levers for soil protection?), 2019, France Stratégie. \[[PDF](https://www.strategie.gouv.fr/publications/objectif-zero-artificialisation-nette-leviers-proteger-sols)\]
 
-   Media coverage: (Le Monde)[https://www.lemonde.fr/planete/article/2019/08/02/la-france-face-aux-risques-de-la-betonisation-galopante_5495906_3244.html]
+   Media coverage: [Le Monde](https://www.lemonde.fr/planete/article/2019/08/02/la-france-face-aux-risques-de-la-betonisation-galopante_5495906_3244.html)
