@@ -15,3 +15,10 @@ This article aims at understanding the policy-making process. It analyzes the re
 
 ### Revolving Doors in the European Union: Quantification and Consequences
 with [Jeanne Bomare](https://sites.google.com/view/jeanne-bomare/about)
+
+### Strategic Complementarity in NGO Advocacy: Evidence from the European Commission
+
+## Non-Academic Publications
+
+### Trajectoires vers l’objectif zéro artificialisation nette. Éléments de méthode (Paths to net zero land take. Methodology)
+Media coverage: 
