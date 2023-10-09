@@ -20,5 +20,10 @@ with [Jeanne Bomare](https://sites.google.com/view/jeanne-bomare/about)
 
 ## Non-Academic Publications
 
-* **Trajectoires vers l’objectif zéro artificialisation nette. Éléments de méthode** (Paths to net zero land take. Methodology), _CGDD_, 2019, with [Adam Baïz](https://cepr.org/about/people/adam-baiz), [Charles Claron](https://www.researchgate.net/profile/Charles-Claron-2) and Géraldine Ducos. \[[PDF](https://drive.google.com/file/d/14M3AHTfMYCSh7YZ_6N1MzLCJ58aeVsdG/view?usp=sharing)\]
-  Media coverage: [Les Echos](https://www.lesechos.fr/industrie-services/energie-environnement/biodiversite-comment-la-france-pourrait-cesser-dartificialiser-ses-terres-en-2050-1159049)
+* **Trajectoires vers l’objectif zéro artificialisation nette. Éléments de méthode** (Paths to net zero land take. Methodology), _CGDD_, 2019, with [Adam Baïz](https://cepr.org/about/people/adam-baiz), [Charles Claron](https://www.researchgate.net/profile/Charles-Claron-2) and Géraldine Ducos. \[[PDF](https://drive.google.com/file/d/14M3AHTfMYCSh7YZ_6N1MzLCJ58aeVsdG/view?usp=sharing)\].
+  
+  Media coverage: [Les Echos](https://www.lesechos.fr/industrie-services/energie-environnement/biodiversite-comment-la-france-pourrait-cesser-dartificialiser-ses-terres-en-2050-1159049).
+
+* **Objectif zéro artificialisation nette: quels leviers pour protéger les sols?** (Net zero land take objective: what levers for soil protection?), 2019, France Stratégie. \[[PDF](https://www.strategie.gouv.fr/publications/objectif-zero-artificialisation-nette-leviers-proteger-sols)\]
+
+   Press coverage: \href{https://www.lemonde.fr/planete/article/2019/08/02/la-france-face-aux-risques-de-la-betonisation-galopante_5495906_3244.html}{Le Monde}.} \par}
