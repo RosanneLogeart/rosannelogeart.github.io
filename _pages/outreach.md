@@ -4,9 +4,9 @@ title: "Outreach"
 author_profile: true
 ---
 
-## Work in progress
+## Roundtables and Debates
 
-# Qatargate: understanding the origins of the scandal and the challenges for a new lobbying framework.
+* Qatargate: understanding the origins of the scandal and the challenges for a new lobbying framework.
 
 Friday 24 March 2023.
 Discussion moderated by (Lola Avril)[https://lolaavril.com] (PhD in political science, research associate, University of Eastern Finland) and (Cécile Robert)[https://triangle.ens-lyon.fr/spip.php?article807] (professor of political science, Sciences Po Lyon).
@@ -17,6 +17,6 @@ Since the arrest in December 2022 of a vice-president of the European Parliament
  
  
 With the participation of:
-# Manon Aubry, Member of the European Parliament
-# Rosanne Logeart, PhD student in economics, Paris School of Economics/Berkeley
-# Emilia Korkea-aho, Professor of European Law and Legislative Studies, UEF Law School, University of Eastern Finland
+** Manon Aubry, Member of the European Parliament
+** Rosanne Logeart, PhD student in economics, Paris School of Economics/Berkeley
+** Emilia Korkea-aho, Professor of European Law and Legislative Studies, UEF Law School, University of Eastern Finland
