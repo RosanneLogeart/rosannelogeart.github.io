@@ -6,7 +6,7 @@ author_profile: true
 
 ## Roundtables and Debates
 
-* **Qatargate: understanding the origins of the scandal and the challenges for a new lobbying framework.**
+### Qatargate: understanding the origins of the scandal and the challenges for a new lobbying framework.
   Event held by (GIS Euro-Lab)[https://gis-eurolab.fr/evenements/debats-et-controverses-qatargate-comprendre-origines-scandale-et-enjeux-dun-nouvel] on Friday 24 March 2023.
 Discussion moderated by (Lola Avril)[https://lolaavril.com] (PhD in political science, research associate, University of Eastern Finland) and (Cécile Robert)[https://triangle.ens-lyon.fr/spip.php?article807] (professor of political science, Sciences Po Lyon).
  
