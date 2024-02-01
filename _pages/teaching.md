@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 * Tutorials in **Econometrics**, Sciences Po, Graduate level (Spring 2024)
+  * Moodle: [https://moodle.sciences-po.fr/course/view.php?id=38079](Link)
 * Tutorials in **Trade and International Finance**, Sciences Po, Undergraduate level (Fall 2023)
 * Lecture on **Lobbying over Environmental Issues**, Paris 1 Panthéon-Sorbonne University, Graduate level (Spring 2022)
 * Tutorials in **Econometrics**, Paris 1 Panthéon-Sorbonne University, Undergraduate level (Spring 2022)
