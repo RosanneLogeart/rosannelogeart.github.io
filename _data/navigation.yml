@@ -9,11 +9,11 @@ main:
   - title: "Outreach"
     url: /outreach/  
     
-  - title: "CV"
-    url: /cv/
-    
   - title: "Databases"
     url: /databases/
 
   - title: "Teaching"
     url: /teaching/   
+    
+  - title: "CV"
+    url: /cv/
