@@ -5,12 +5,12 @@ main:
     
   - title: "Research"
     url: /research/  
-
-  - title: "Outreach"
-    url: /outreach/  
     
   - title: "Databases"
     url: /databases/
+
+  - title: "Outreach"
+    url: /outreach/  
 
   - title: "Teaching"
     url: /teaching/   
