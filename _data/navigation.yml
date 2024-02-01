@@ -11,6 +11,9 @@ main:
     
   - title: "CV"
     url: /cv/
+    
+  - title: "Databases"
+    url: /databases/
 
   - title: "Teaching"
     url: /teaching/   
