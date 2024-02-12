@@ -280,6 +280,14 @@ plugins:
   - jekyll-redirect-from
   - jekyll-include-cache
   - jekyll-github-metadata
+  - jekyll-seo-tag
+  - jekyll-coffeescript
+  - jekyll-commonmark-ghpages
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
