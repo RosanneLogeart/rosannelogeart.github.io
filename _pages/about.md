@@ -13,6 +13,8 @@ Welcome to my website!
 * I am a PhD Candidate at the Paris School of Economics ([PSE](https://www.parisschoolofeconomics.eu/en/){:target="_blank"}) and the [University Paris 1 Panthéon-Sorbonne](https://www.pantheonsorbonne.fr){:target="_blank"}. My thesis advisor is [Mireille Chiroleu-Assouline](https://www.parisschoolofeconomics.eu/en/chiroleu-assouline-mireille/){:target="_blank"}.
 
 * I am currently a teaching fellow at [Sciences Po](https://www.sciencespo.fr/department-economics/){:target="_blank"}. I visited [UC Berkeley](https://www.econ.berkeley.edu){:target="_blank"} in 2022-2023.
+  
+* I am an incoming Post-Doctoral Fellow at the [Copenhagen Business School](https://www.cbs.dk/en){:target="_blank"}, where I will be working with [Florian Hollenbach](https://fhollenbach.org){:target="_blank"} and [David Fortunato](http://www.davidfortunato.com){:target="_blank"}.
 
 * My research focuses on the role of **lobbying** in policy-making processes. In particular, I investigate how **political connection** or **reputation** relate to lobbying success. I also study the consequences of **revolving doors**.
 
