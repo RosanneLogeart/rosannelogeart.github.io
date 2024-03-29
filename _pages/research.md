@@ -16,6 +16,7 @@ author_profile: true
 * **Revolving Doors in the European Union: Quantification and Consequences**, with <a href="https://sites.google.com/view/jeanne-bomare/about" target="_blank">Jeanne Bomare</a>
 
 * **Strategic Complementarity in NGO Advocacy: Evidence from the European Commission**
+  
   **Upcoming presentation**: EAERE (July 1st, Leuven).
 
 ## Non-Academic Publications
