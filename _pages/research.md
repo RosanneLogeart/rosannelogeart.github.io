@@ -14,7 +14,10 @@ author_profile: true
   _Upcoming presentations_: European Public Choice Society (April 2nd, Vienna); EDDY conference (April 11th, Rotterdam); Development and Political Economics Conference (April 18th, Stanford); COMPTEXT (May 2nd, Amsterdam); European Political Science Association (July 4th, Köln).
 
 * **Strategic Complementarity in NGO Advocacy: Evidence from the European Commission**
-  <br/>
+  <details>
+    <summary>Abstract</summary>
+    This article analyzes the advocacy strategies of environmental non-governmental organizations (ENGOs). I develop a model in which ENGOs can engage in costly advocacy activities to foster pro-environmental policy changes on different dimensions. The model gives insights on their optimal advocacy strategies, and their reaction functions to lobbying from other actors. Combining data on meetings with European Commission members and textual analysis to measure lobbying efforts on different topics, I find support for strategic complementarity of efforts. ENGOs also seem to benefit from lobbying of the business sector on the same topics: it makes their effort more efficient as it contributes to bringing these topics up and helps them get meetings with time-limited attention policymakers.
+  </details>
   _Upcoming presentation_: EAERE (July 1st, Leuven).
 
 * **Revolving Doors in the European Union: Quantification and Consequences**, with <a href="https://sites.google.com/view/jeanne-bomare/about" target="_blank">Jeanne Bomare</a>
