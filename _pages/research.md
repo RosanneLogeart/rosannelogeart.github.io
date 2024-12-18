@@ -13,19 +13,19 @@ author_profile: true
   </details>
   _Upcoming presentation_: GSIPE (February 8th, Berkeley).
 
+* **Revolving Doors in the European Union: Quantification and Consequences**, with <a href="https://sites.google.com/view/jeanne-bomare/about" target="_blank">Jeanne Bomare</a> _(Draft available on request)_
+  <details>
+    <summary>Abstract</summary>
+    This paper studies the impact of employee mobility between the European Union (EU) public sector and non-EU organizations on access to EU policymakers and EU funding. We use data from the professional network LinkedIn to identify moves across all EU hierarchy levels, both in the direction of entering and exiting the EU public sector. We identify more than 50,000 moves between 74 EU institutions and bodies and the private sector, over the 2014-2023 period. Using a dynamic difference-in-differences estimator accounting for multiple treatments, we find that hiring EU staff increases the probability of obtaining EU procurement contracts or EU grants by about 5%. Moves in the opposite direction have no effect on access to EU funding, suggesting that benefits of the hire derive from acquiring insider knowledge. Additionally, hiring Commission staff significantly boosts engagement with the Commission, with effects being particularly pronounced for moves of relatively long-term employees. Conversely, when private-sector employees transition to the Commission, organizations experience a similar 10% rise in meetings with the Commission. The symmetry of these results suggests that they are driven by the network gained through these moves.
+  </details>
+  <a href="/assets/download/2-24243_Certificat.pdf" target="_blank">Data Registration Certificate</a>
+
 * **Strategic Complementarity in NGO Advocacy: Evidence from the European Commission** _(Draft available on request)_
   <details>
     <summary>Abstract</summary>
     This article analyzes the advocacy strategies of environmental non-governmental organizations (ENGOs). I develop a model in which ENGOs can engage in costly advocacy activities to foster pro-environmental policy changes on different dimensions. The model gives insights on their optimal advocacy strategies, and their reaction functions to lobbying from other actors. Combining data on meetings with European Commission members and textual analysis to measure lobbying efforts on different topics, I find support for strategic complementarity of ENGOs efforts. ENGOs also seem to drive the lobbying agenda of the business sector on environmental topics.
   </details>
   _Upcoming presentation_: AEA (January 3rd, San Francisco).
-
-* **Revolving Doors in the European Union: Quantification and Consequences**, with <a href="https://sites.google.com/view/jeanne-bomare/about" target="_blank">Jeanne Bomare</a> _(Draft available on request)_
-  <details>
-    <summary>Abstract</summary>
-  This paper studies the impact of employee mobility between the European Union (EU) public sector and non-EU organizations on access to EU funding and meetings with the EU executive body, the European Commission. We use data from the professional network LinkedIn to identify moves across all EU hierarchy levels, both in the direction of entering and exiting the EU public sector. Considering 74 EU institutions and bodies between 2014 and 2023, we identify 53,717 moves and present the associated networks. Using a dynamic difference-in-differences estimator accounting for multiple treatments, we find that hiring EU staff increases the probability of obtaining EU procurement contracts or EU grants by about 5%. Moves in the opposite direction have no effect on access to EU funding, highlighting the benefits of acquiring insider knowledge. Additionally, hiring Commission staff significantly boosts engagement with the Commission, with effects being particularly pronounced for moves of relatively long-term employees. Conversely, when employees transition to the Commission, organizations experience a similar 10% rise in meetings with the Commission. The symmetry of these results suggests that they are driven by the connections gained through these moves.
-  </details>
-  <a href="/assets/download/2-24243_Certificat.pdf" target="_blank">Data Registration Certificate</a>
   
 * **Who lays down the law? Informational lobbying in the French assembly**, with <a href="https://grasclement.github.io" target="_blank">Clément Gras</a>
 
