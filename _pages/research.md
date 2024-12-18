@@ -20,7 +20,7 @@ author_profile: true
   </details>
   <a href="/assets/download/2-24243_Certificat.pdf" target="_blank">Data Registration Certificate</a>
 
-* **Strategic Complementarity in NGO Advocacy: Evidence from the European Commission** _(Draft available on request)_
+* **Strategic Complementarity in NGO Advocacy: Theory and evidence from the European Commission** _(Draft available on request)_
   <details>
     <summary>Abstract</summary>
     This article analyzes the advocacy strategies of environmental non-governmental organizations (ENGOs). I develop a model in which ENGOs can engage in costly advocacy activities to foster pro-environmental policy changes on different dimensions. The model gives insights on their optimal advocacy strategies, and their reaction functions to lobbying from other actors. Combining data on meetings with European Commission members and textual analysis to measure lobbying efforts on different topics, I find support for strategic complementarity of ENGOs efforts. ENGOs also seem to drive the lobbying agenda of the business sector on environmental topics.
