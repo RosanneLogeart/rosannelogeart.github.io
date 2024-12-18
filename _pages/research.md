@@ -25,10 +25,7 @@ author_profile: true
     <summary>Abstract</summary>
   This paper studies the impact of employee mobility between the European Union (EU) public sector and non-EU organizations on access to EU funding and meetings with the EU executive body, the European Commission. We use data from the professional network LinkedIn to identify moves across all EU hierarchy levels, both in the direction of entering and exiting the EU public sector. Considering 74 EU institutions and bodies between 2014 and 2023, we identify 53,717 moves and present the associated networks. Using a dynamic difference-in-differences estimator accounting for multiple treatments, we find that hiring EU staff increases the probability of obtaining EU procurement contracts or EU grants by about 5%. Moves in the opposite direction have no effect on access to EU funding, highlighting the benefits of acquiring insider knowledge. Additionally, hiring Commission staff significantly boosts engagement with the Commission, with effects being particularly pronounced for moves of relatively long-term employees. Conversely, when employees transition to the Commission, organizations experience a similar 10% rise in meetings with the Commission. The symmetry of these results suggests that they are driven by the connections gained through these moves.
   </details>
-  <details>
-    <summary>Data Registration Certificate</summary>
-    <a href="/assets/download/2-24243_Certificat.pdf">Data Registration Certificate</a>
-  </details>
+  <a href="/assets/download/2-24243_Certificat.pdf">Data Registration Certificate</a>
   
 * **Who lays down the law? Informational lobbying in the French assembly**, with <a href="https://grasclement.github.io" target="_blank">Clément Gras</a>
 
