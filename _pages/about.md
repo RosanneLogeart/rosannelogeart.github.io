@@ -10,7 +10,7 @@ redirect_from:
 Welcome to my website!
 ------
   
-* I am a Postdoctoral Fellow at the Money in Politics group at the [Copenhagen Business School](https://www.cbs.dk/en){:target="_blank"}.
+* I am a Postdoctoral Fellow in the Money in Politics group at the [Copenhagen Business School](https://www.cbs.dk/en){:target="_blank"}.
 
 * I received my Ph.D. from the Paris School of Economics ([PSE](https://www.parisschoolofeconomics.eu/en/){:target="_blank"}) and the [University Paris 1 Panthéon-Sorbonne](https://www.pantheonsorbonne.fr){:target="_blank"}. Previously, I visited [UC Berkeley](https://www.econ.berkeley.edu){:target="_blank"} in 2022-2023, and I was a Teaching Fellow at [Sciences Po](https://www.sciencespo.fr/department-economics/){:target="_blank"} in 2023-2024.
 
