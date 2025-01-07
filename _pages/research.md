@@ -11,7 +11,7 @@ author_profile: true
     <summary>Abstract</summary>
     This article investigates the relationship between access to policymakers and lobbying success. I collect unique, large-scale textual data to capture the content of lobbying activities and subsequent changes in EU regulations. I identify lobbying success with both plagiarism detection and a large language model (GPT-4). I measure direct access to policymakers based on meetings between policy-makers and interest group representatives. To address potential endogeneity in access, I build a matched sample using propensity scores and a balanced sample using Mahalanobis distance. I find that access to policymakers is associated with a larger likelihood of lobbying success, consistent across success measures and samples. This effect is stronger for organizations that hold more meetings and for those with access to higher-level officials. Finally, I exploit turnover in policymakers across mandates to explore the underlying mechanisms and find evidence that political connections primarily drive the effect of access on success, surpassing the influence of information transmission, institutional knowledge, or intrinsic quality of the organization in driving lobbying success.
   </details>
-  _Upcoming presentation_: GSIPE (February 8th, Berkeley).
+  _Upcoming presentations_: School of Global Policy and Strategy (January 7th, UCSD); Department of Political Sciences (February 23rd, UC Riverside); GSIPE (February 8th, Berkeley).
 
 * **Revolving Doors in the European Union: Quantification and Consequences**, with <a href="https://sites.google.com/view/jeanne-bomare/about" target="_blank">Jeanne Bomare</a> _(Draft available on request)_
   <details>
