@@ -26,6 +26,18 @@ author_profile: true
     This article analyzes the advocacy strategies of environmental non-governmental organizations (ENGOs). I develop a model in which ENGOs can engage in costly advocacy activities to foster pro-environmental policy changes on different dimensions. The model gives insights on their optimal advocacy strategies, and their reaction functions to lobbying from other actors. Combining data on meetings with European Commission members and textual analysis to measure lobbying efforts on different topics, I find support for strategic complementarity of ENGOs efforts. ENGOs also seem to drive the lobbying agenda of the business sector on environmental topics.
   </details>
   _Upcoming presentation_: AEA (January 3rd, San Francisco).
+
+* **Choosing Legislative Power**, with <a href="http://www.davidfortunato.com" target = "_blank">David Fortunato</a> and <a href="https://fhollenbach.org" target = "_blank">Florian Hollenbach</a>
+  <details>
+    <summary>Abstract</summary>
+    In democracies, elected representatives in legislatures compete with unelected bureaucrats for influence over policy outcomes. A determining factor in this competition is the legislature’s procedural organization and endowment of tangible resources for legislative work, both of which shape its overall capacity for policy design and oversight. Importantly, nearly every democratic legislature is empowered to choose its organizational rules and resource endowment, creating a fascinating strategic choice at the heart of each democratic system: how much capacity will the legislature grant itself? We present a theoretical model of this choice in light of the legislative majority’s present and expected orientation toward the bureaucracy, its preferential dissimilarity from the opposition, and its expectations for deselection. The model is parsimonious but rich, allowing us to better understand the historical development of legislatures as well as more recent institutional changes.
+  </details>
+
+* **Legislative Capacity Across OECD Member States**, with <a href="http://www.davidfortunato.com" target = "_blank">David Fortunato</a> and <a href="https://fhollenbach.org" target = "_blank">Florian Hollenbach</a>
+  <details>
+    <summary>Abstract</summary>
+    Legislatures vary in their capacity for detailed design and scrutiny of draft bills and oversight of the bureaucracy as a function of their formal powers and their endowment of tangible resources for legislative work. These resource endowments, such as member salaries, budgets for legislative staff, and session days, have been shown to be powerful predictors of interbranch interactions and legislative outcomes, but applied research is almost entirely limited to the study of (subnational) state governments in the US. We present new data on these resources for the national legislatures of OECD member states for the last several decades, documenting remarkable variability across units, as well as within-units over time. This variation in resource endowments presents substantial opportunity for new research in comparative political economy.
+  </details>
   
 * **Who lays down the law? Informational lobbying in the French assembly**, with <a href="https://grasclement.github.io" target="_blank">Clément Gras</a>
 
