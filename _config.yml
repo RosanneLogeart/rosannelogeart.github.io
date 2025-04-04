@@ -97,7 +97,7 @@ author:
   avatar           : "../assets/images/rosannelogeart.png"
   bio              : "Postdoc"
   location         : "Copenhagen, Denmark"
-  employer         : "Copenhagen Business School"
+  employer         : # "Copenhagen Business School"
   pubmed           : 
   googlescholar    : 
   email            : "rosanne.logeart@psemail.eu"
