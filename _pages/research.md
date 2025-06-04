@@ -11,7 +11,6 @@ author_profile: true
     <summary>Abstract</summary>
     This article investigates the relationship between direct access to policymakers and lobbying success. I collect large-scale, unique textual data to capture the content of lobbying activities and track subsequent changes in 1,106 European Union regulations, from the draft to the final adopted version. I build two alternative measures to identify lobbying success of comments written by interest groups on a draft regulation: one based on plagiarism detection and the other from a large language model. I measure direct access to policymakers from meetings held between the executive and interest groups. I find that access to policymakers is associated with a 22 to 29 percent higher likelihood of lobbying success, using a balanced sample of comments from organizations with and without access to policymakers. This effect is stronger for comments from organizations with more meetings, or with access to top-level officials. Finally, I exploit variation in meeting timing and policymakers turnover across mandates to explore the underlying mechanisms. I find evidence that political connections are the primary driver of the effect of access on lobbying success, outweighing the influence of information transmission, institutional knowledge, or the intrinsic quality of the organization.
   </details>
-  _Upcoming presentations_: School of Global Policy and Strategy (January 7th, UCSD); Department of Political Sciences (January 23rd, UC Riverside); GSIPE (February 8th, Berkeley).
 
 * **Revolving Doors in the European Union: Quantification and Consequences**, with <a href="https://sites.google.com/view/jeanne-bomare/about" target="_blank">Jeanne Bomare</a> _(Draft available on request)_
   <details>
@@ -25,7 +24,6 @@ author_profile: true
     <summary>Abstract</summary>
     This article analyzes the advocacy strategies of environmental non-governmental organizations (ENGOs). I develop a model in which ENGOs can engage in costly advocacy activities to foster pro-environmental policy changes on different dimensions. The model gives insights on their optimal advocacy strategies, and their reaction functions to lobbying from other actors. Combining data on meetings with European Commission members and textual analysis to measure lobbying efforts on different topics, I find support for strategic complementarity of ENGOs efforts. ENGOs also seem to drive the lobbying agenda of the business sector on environmental topics.
   </details>
-  _Upcoming presentation_: AEA (January 3rd, San Francisco).
 
 * **Choosing Legislative Power**, with <a href="http://www.davidfortunato.com" target = "_blank">David Fortunato</a> and <a href="https://fhollenbach.org" target = "_blank">Florian Hollenbach</a>
   <details>
