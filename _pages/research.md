@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-## Working Papaers
+## Working Papers
 
 * **Does Access Mean Success? Connection to Policy-Makers and Lobbying Success of Political Actors** _(Draft available on request)_ <br/>
   <details>
