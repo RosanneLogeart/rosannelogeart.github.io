@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-## Work in Progress
+## Working Papaers
 
 * **Does Access Mean Success? Connection to Policy-Makers and Lobbying Success of Political Actors** _(Draft available on request)_ <br/>
   <details>
@@ -20,19 +20,20 @@ author_profile: true
   </details>
   <a href="/assets/download/2-24243_Certificat.pdf" target="_blank">Data Registration Certificate</a>
 
-* **Strategic Complementarity in NGO Advocacy: Theory and evidence from the European Commission** _(Draft available on request)_
-  <details>
-    <summary>Abstract</summary>
-    This article analyzes the advocacy strategies of environmental non-governmental organizations (ENGOs). I develop a model in which ENGOs can engage in costly advocacy activities to foster pro-environmental policy changes on different dimensions. The model gives insights on their optimal advocacy strategies, and their reaction functions to lobbying from other actors. Combining data on meetings with European Commission members and textual analysis to measure lobbying efforts on different topics, I find support for strategic complementarity of ENGOs efforts. ENGOs also seem to drive the lobbying agenda of the business sector on environmental topics.
-  </details>
-<br />
-
 * **Choosing Legislative Power**, with <a href="http://www.davidfortunato.com" target = "_blank">David Fortunato</a> and <a href="https://fhollenbach.org" target = "_blank">Florian Hollenbach</a>
   <details>
     <summary>Abstract</summary>
     In democracies, elected representatives in legislatures compete with unelected bureaucrats for influence over policy outcomes. A determining factor in this competition is the legislature's procedural organization and endowment of tangible resources for legislative work, both of which shape its overall capacity for policy design and oversight. Importantly, nearly every democratic legislature is empowered to choose its organizational rules and resource endowment, creating a fascinating strategic choice at the heart of each democratic system: how much capacity will the legislature grant itself? We present a theoretical model of this choice in light of the legislative majority's present and expected orientation toward the bureaucracy, its preferential dissimilarity from the opposition, and its expectations for deselection. The model is parsimonious but rich, allowing us to better understand the historical development of legislatures as well as more recent institutional changes.
   </details>
   <br />
+
+## Work in Progress
+* **Strategic Complementarity in NGO Advocacy: Theory and evidence from the European Commission** _(Draft available on request)_
+  <details>
+    <summary>Abstract</summary>
+    This article analyzes the advocacy strategies of environmental non-governmental organizations (ENGOs). I develop a model in which ENGOs can engage in costly advocacy activities to foster pro-environmental policy changes on different dimensions. The model gives insights on their optimal advocacy strategies, and their reaction functions to lobbying from other actors. Combining data on meetings with European Commission members and textual analysis to measure lobbying efforts on different topics, I find support for strategic complementarity of ENGOs efforts. ENGOs also seem to drive the lobbying agenda of the business sector on environmental topics.
+  </details>
+<br />
 
 * **Legislative Capacity Across OECD Member States**, with <a href="http://www.davidfortunato.com" target = "_blank">David Fortunato</a> and <a href="https://fhollenbach.org" target = "_blank">Florian Hollenbach</a>
   <details>
@@ -41,7 +42,6 @@ author_profile: true
   </details>
   <br />
   
-* **Who lays down the law? Informational lobbying in the French assembly**, with <a href="https://grasclement.github.io" target="_blank">Clément Gras</a>
 
 ## Non-Academic Publications
 
