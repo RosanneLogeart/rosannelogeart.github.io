@@ -6,7 +6,7 @@ author_profile: true
 
 ## Working Papers
 
-* **Does Access Mean Success? Connection to Policy-Makers and Lobbying Success of Political Actors** _(Draft available on request)_ <br/>
+* **Does Access Mean Success? Connection to Policymakers and Lobbying Influence in the European Union** _(Draft available on request)_ <br/>
   <details>
     <summary>Abstract</summary>
     This article studies the effect of access to policymakers on lobbying influence, in the context of European Union regulations. I compile novel textual data from a public consultation platform and identify policy changes between the draft and adopted versions of 900 regulations. I measure lobbying success of comments using two complementary approaches: a plagiarism-detection algorithm and a large language model. I measure access to policymakers using the list of direct meetings held between Commission members and organizations. I find that comments submitted by organizations with access are significantly more likely to lead to regulatory changes than similar comments on the same regulation from organizations without access. The effect is driven by comments from organizations with more meetings or with access to top-level officials. I exploit the timing of meetings and the turnover of policymakers across mandates to distinguish between four potential channels: information transmission, insider knowledge acquired, political connections built, and signal for higher intrinsic quality. I find that connections play a crucial role for access to translate into increased influence. Lastly, using within-organization variation in active connections before and after the mandate change, I show that retaining connections enhances an organization's influence.
@@ -41,7 +41,10 @@ author_profile: true
     Legislatures vary in their capacity for detailed design and scrutiny of draft bills and oversight of the bureaucracy as a function of their formal powers and their endowment of tangible resources for legislative work. These resource endowments, such as member salaries, budgets for legislative staff, and session days, have been shown to be powerful predictors of interbranch interactions and legislative outcomes, but applied research is almost entirely limited to the study of (subnational) state governments in the US. We present new data on these resources for the national legislatures of OECD member states for the last several decades, documenting remarkable variability across units, as well as within-units over time. This variation in resource endowments presents substantial opportunity for new research in comparative political economy.
   </details>
   <br />
-  
+
+* **Fragmented Voices: The City of London and Post-Brexit Financial Negotiations**, with <a href="http://janagritters.com" target = "_blank">Jana Grittersova</a>
+
+* **Who lays down the law? Informational lobbying in the French assembly**, with <a href="https://www.parisschoolofeconomics.eu/personnes/clement-gras/" target = "_blank">Clément Gras</a>
 
 ## Non-Academic Publications
 
