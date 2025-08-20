@@ -20,7 +20,7 @@ author_profile: true
   </details>
   <a href="/assets/download/2-24243_Certificat.pdf" target="_blank">Data Registration Certificate</a>
 
-* **Choosing Legislative Power**, with <a href="http://www.davidfortunato.com" target = "_blank">David Fortunato</a> and <a href="https://fhollenbach.org" target = "_blank">Florian Hollenbach</a>
+* **Choosing Legislative Capacity: A Theoretical Model**, with <a href="http://www.davidfortunato.com" target = "_blank">David Fortunato</a> and <a href="https://fhollenbach.org" target = "_blank">Florian Hollenbach</a>
   <details>
     <summary>Abstract</summary>
     In democracies, elected representatives in legislatures compete with unelected bureaucrats for influence over policy outcomes. A determining factor in this competition is the legislature's procedural organization and endowment of tangible resources for legislative work, both of which shape its overall capacity for policy design and oversight. Importantly, nearly every democratic legislature is empowered to choose its organizational rules and resource endowment, creating a fascinating strategic choice at the heart of each democratic system: how much capacity will the legislature grant itself? We present a theoretical model of this choice in light of the legislative majority's present and expected orientation toward the bureaucracy, its preferential dissimilarity from the opposition, and its expectations for deselection. The model is parsimonious but rich, allowing us to better understand the historical development of legislatures as well as more recent institutional changes.
