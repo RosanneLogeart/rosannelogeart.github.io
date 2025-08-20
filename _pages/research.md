@@ -27,7 +27,6 @@ author_profile: true
   </details>
   <br />
 
-  
 * **Strategic Complementarity in NGO Advocacy: Theory and evidence from the European Commission** _(Draft available on request)_
   <details>
     <summary>Abstract</summary>
