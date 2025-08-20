@@ -27,13 +27,15 @@ author_profile: true
   </details>
   <br />
 
-## Work in Progress
+  
 * **Strategic Complementarity in NGO Advocacy: Theory and evidence from the European Commission** _(Draft available on request)_
   <details>
     <summary>Abstract</summary>
     This article analyzes the advocacy strategies of environmental non-governmental organizations (ENGOs). I develop a model in which ENGOs can engage in costly advocacy activities to foster pro-environmental policy changes on different dimensions. The model gives insights on their optimal advocacy strategies, and their reaction functions to lobbying from other actors. Combining data on meetings with European Commission members and textual analysis to measure lobbying efforts on different topics, I find support for strategic complementarity of ENGOs efforts. ENGOs also seem to drive the lobbying agenda of the business sector on environmental topics.
   </details>
 <br />
+
+## Work in Progress
 
 * **Legislative Capacity Across OECD Member States**, with <a href="http://www.davidfortunato.com" target = "_blank">David Fortunato</a> and <a href="https://fhollenbach.org" target = "_blank">Florian Hollenbach</a>
   <details>
@@ -43,8 +45,10 @@ author_profile: true
   <br />
 
 * **Fragmented Voices: The City of London and Post-Brexit Financial Negotiations**, with <a href="http://janagritters.com" target = "_blank">Jana Grittersova</a>
+  <br />
 
 * **Who lays down the law? Informational lobbying in the French assembly**, with <a href="https://www.parisschoolofeconomics.eu/personnes/clement-gras/" target = "_blank">Clément Gras</a>
+  <br />
 
 ## Non-Academic Publications
 
