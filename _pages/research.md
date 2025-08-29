@@ -46,9 +46,7 @@ _Upcoming Presentations: APSA (September 13th, 2025)_
 _Upcoming Presentations: DPSA (November 24th, 2025)_
   <br />
 
-* **Fragmented Voices: The City of London and Post-Brexit Financial Negotiations**, with <a href="http://janagritters.com" target = "_blank">Jana Grittersova</a>
-<br/>
-_Upcoming Presentations: APSA (September 14th, 2025); IPES (October 17th, 2025)_
+* **Fragmented Voices: The City of London and Post-Brexit Financial Negotiations**, with <a href="http://janagritters.com" target = "_blank">Jana Grittersova</a><br/>_Upcoming Presentations: APSA (September 14th, 2025); IPES (October 17th, 2025)_
   <br />
 
 * **Who lays down the law? Informational lobbying in the French assembly**, with <a href="https://www.parisschoolofeconomics.eu/personnes/clement-gras/" target = "_blank">Clément Gras</a>
