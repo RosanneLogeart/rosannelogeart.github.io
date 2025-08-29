@@ -11,6 +11,7 @@ author_profile: true
     <summary>Abstract</summary>
     This article studies the effect of access to policymakers on lobbying influence, in the context of European Union regulations. I compile novel textual data from a public consultation platform and identify policy changes between the draft and adopted versions of 900 regulations. I measure lobbying success of comments using two complementary approaches: a plagiarism-detection algorithm and a large language model. I measure access to policymakers using the list of direct meetings held between Commission members and organizations. I find that comments submitted by organizations with access are significantly more likely to lead to regulatory changes than similar comments on the same regulation from organizations without access. The effect is driven by comments from organizations with more meetings or with access to top-level officials. I exploit the timing of meetings and the turnover of policymakers across mandates to distinguish between four potential channels: information transmission, insider knowledge acquired, political connections built, and signal for higher intrinsic quality. I find that connections play a crucial role for access to translate into increased influence. Lastly, using within-organization variation in active connections before and after the mandate change, I show that retaining connections enhances an organization's influence.
   </details>
+_Upcoming Presentations: PEEP (September 10th, 2025); APSA (September 13th, 2025)_
   <br />
 
 * **Revolving Doors in the European Union: Quantification and Consequences**, with <a href="https://sites.google.com/view/jeanne-bomare/about" target="_blank">Jeanne Bomare</a> _(Draft available on request)_
@@ -25,6 +26,7 @@ author_profile: true
     <summary>Abstract</summary>
     In democracies, elected representatives in legislatures compete with unelected bureaucrats for influence over policy outcomes. A determining factor in this competition is the legislature's procedural organization and endowment of tangible resources for legislative work, both of which shape its overall capacity for policy design and oversight. Importantly, nearly every democratic legislature is empowered to choose its organizational rules and resource endowment, creating a fascinating strategic choice at the heart of each democratic system: how much capacity will the legislature grant itself? We present a theoretical model of this choice in light of the legislative majority's present and expected orientation toward the bureaucracy, its preferential dissimilarity from the opposition, and its expectations for deselection. The model is parsimonious but rich, allowing us to better understand the historical development of legislatures as well as more recent institutional changes.
   </details>
+_Upcoming Presentations: APSA (September 13th, 2025)_
   <br />
 
 * **Strategic Complementarity in NGO Advocacy: Theory and evidence from the European Commission** _(Draft available on request)_
@@ -41,9 +43,11 @@ author_profile: true
     <summary>Abstract</summary>
     Legislatures vary in their capacity for detailed design and scrutiny of draft bills and oversight of the bureaucracy as a function of their formal powers and their endowment of tangible resources for legislative work. These resource endowments, such as member salaries, budgets for legislative staff, and session days, have been shown to be powerful predictors of interbranch interactions and legislative outcomes, but applied research is almost entirely limited to the study of (subnational) state governments in the US. We present new data on these resources for the national legislatures of OECD member states for the last several decades, documenting remarkable variability across units, as well as within-units over time. This variation in resource endowments presents substantial opportunity for new research in comparative political economy.
   </details>
+_Upcoming Presentations: DPSA (November 24th, 2025)_
   <br />
 
 * **Fragmented Voices: The City of London and Post-Brexit Financial Negotiations**, with <a href="http://janagritters.com" target = "_blank">Jana Grittersova</a>
+_Upcoming Presentations: APSA (September 14th, 2025); IPES (October 17th, 2025)_
   <br />
 
 * **Who lays down the law? Informational lobbying in the French assembly**, with <a href="https://www.parisschoolofeconomics.eu/personnes/clement-gras/" target = "_blank">Clément Gras</a>
