@@ -47,6 +47,7 @@ _Upcoming Presentations: DPSA (November 24th, 2025)_
   <br />
 
 * **Fragmented Voices: The City of London and Post-Brexit Financial Negotiations**, with <a href="http://janagritters.com" target = "_blank">Jana Grittersova</a>
+
 _Upcoming Presentations: APSA (September 14th, 2025); IPES (October 17th, 2025)_
   <br />
 
