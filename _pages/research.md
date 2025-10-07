@@ -9,9 +9,8 @@ author_profile: true
 * **Does Access Mean Success? Political Connections and Influence** _(Draft available on request)_
   <details>
     <summary>Abstract</summary>
-    This article studies how access to policymakers affects lobbying success and the role political connections play, using evidence from European Commission regulations. I compile a new dataset of public comments on draft regulations to measure influence, combined with data on meetings with Commission members to measure access. I define a comment as successful if it is reflected in policy changes between drafts and final regulations, using two complementary methods: a plagiarism-detection algorithm and a large language model. Using propensity score matching, I show that access significantly increases the probability of success, particularly through meetings with top-level officials and for organizations with more meetings. Exploiting a change in office and within-organization variation in active connections, I find that information transmission alone cannot explain this effect: political connections are the key driver of success via access.
+    This paper studies how access to policymakers shapes lobbying success and the role political connections play, using evidence from European Commission regulations. I compile a new dataset of public comments on draft regulations and apply natural language processing tools to detect stakeholders' influence on final regulations. Combined with data on meetings with Commission members to capture access, I show that access significantly increases the probability of success, especially through meetings with top-level officials and for organizations with more frequent interactions. Exploiting both changes in officeholders and within-organization variation in active connections, I find that information transmission alone cannot explain the effect: political connections are the key driver of success through access.
   </details>
-_Upcoming Presentations: PEEP (September 10th, 2025); APSA (September 13th, 2025)_
   <br />
 
 * **In and Out of the Public Sector: The Impact of Revolving Doors in the EU**, with <a href="https://sites.google.com/view/jeanne-bomare/about" target="_blank">Jeanne Bomare</a> _(Draft available on request)_
@@ -26,7 +25,6 @@ _Upcoming Presentations: PEEP (September 10th, 2025); APSA (September 13th, 2025
     <summary>Abstract</summary>
     In democracies, elected representatives in legislatures compete with unelected bureaucrats for influence over policy outcomes. A determining factor in this competition is the legislature's procedural organization and endowment of tangible resources for legislative work, both of which shape its overall capacity for policy design and oversight. Importantly, nearly every democratic legislature is empowered to choose its organizational rules and resource endowment, creating a fascinating strategic choice at the heart of each democratic system: how much capacity will the legislature grant itself? We present a theoretical model of this choice in light of the legislative majority's present and expected orientation toward the bureaucracy, its preferential dissimilarity from the opposition, and its expectations for deselection. The model is parsimonious but rich, allowing us to better understand the historical development of legislatures as well as more recent institutional changes.
   </details>
-_Upcoming Presentations: APSA (September 13th, 2025)_
   <br />
 
 * **Strategic Complementarity in NGO Advocacy: Theory and evidence from the European Commission** _(Draft available on request)_
