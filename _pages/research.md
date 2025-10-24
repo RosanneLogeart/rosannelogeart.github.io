@@ -18,12 +18,12 @@ class: wide
 ## Working Papers
 
 * **In and Out of the Public Sector: The Impact of Revolving Doors in the EU**, with <a href="https://sites.google.com/view/jeanne-bomare/about" target="_blank">Jeanne Bomare</a><br />
-  <a href="https://drive.google.com/file/d/1HjkZYRVc-A9dSMVSIErgGKRvXgPxpE1U/view?usp=share_link" target="_blank">Full paper</a>
+  <a href="https://drive.google.com/file/d/1HjkZYRVc-A9dSMVSIErgGKRvXgPxpE1U/view?usp=share_link" target="_blank">Full paper</a> --- <a href="/assets/download/2-24243_Certificat.pdf" target="_blank">Data Registration Certificate</a>
   <details>
     <summary>Abstract</summary>
     This paper studies the impact of employee mobility between the European Union (EU) public sector and non-EU organizations on access to EU policymakers and EU funding. We use data from the professional network LinkedIn to identify moves across all EU hierarchy levels, both in the direction of entering and exiting the EU public sector. We identify more than 50,000 moves between 74 EU institutions and bodies and the private sector, over the 2014-2023 period. Using a dynamic difference-in-differences estimator accounting for multiple treatments, we find that hiring EU staff increases the probability of obtaining EU procurement contracts or EU grants. Moves in the opposite direction have no effect on access to EU funding, suggesting that benefits of the hire come from acquiring insider knowledge. Additionally, moves from and to the EU Commission staff significantly boosts engagement with the Commission, but these effects are short-lived. The symmetry and timing of these results suggest that they are driven by the network gained through these moves.
   </details>
-  <a href="/assets/download/2-24243_Certificat.pdf" target="_blank">Data Registration Certificate</a>
+  <br />
 
 * **Choosing Legislative Capacity: A Theoretical Model**, with <a href="http://www.davidfortunato.com" target = "_blank">David Fortunato</a> and <a href="https://fhollenbach.org" target = "_blank">Florian Hollenbach</a><br />
   <a href="https://drive.google.com/file/d/1wrtv5oafxTCjytU7-dsuToBAgc_T3cyw/view?usp=share_link" target="_blank">Full paper</a>
