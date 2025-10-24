@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-## Working Papers
+## Job Market Paper
 
 * <a href="https://drive.google.com/file/d/1D3MmZyl-5apQudunyvnNIqA7POWyvrhS/view?usp=share_link" target="_blank">**Does Access Mean Success? Political Connections and Influence**</a>
   <details>
@@ -12,6 +12,8 @@ author_profile: true
     This paper studies how access to policymakers shapes lobbying success and the role political connections play, using evidence from European Commission regulations. I compile a new dataset of public comments on draft regulations and apply natural language processing tools to detect stakeholders' influence on final regulations. Combined with data on meetings with Commission members to capture access, I show that access significantly increases the probability of success, especially for organizations with more frequent interactions. Exploiting both changes in officeholders and within-organization variation in active connections, I find that information transmission or institutional knowledge cannot explain the effect: political connections are the key driver of success through access.
   </details>
   <br />
+
+  ## Working Papers
 
 * <a href="https://drive.google.com/file/d/1HjkZYRVc-A9dSMVSIErgGKRvXgPxpE1U/view?usp=share_link" target="_blank">**In and Out of the Public Sector: The Impact of Revolving Doors in the EU**</a>, with <a href="https://sites.google.com/view/jeanne-bomare/about" target="_blank">Jeanne Bomare</a>
   <details>
