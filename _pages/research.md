@@ -8,6 +8,7 @@ class: wide
 ## Job Market Paper
 
 * **Does Access Mean Success? Political Connections and Influence**
+  
   <a href="https://drive.google.com/file/d/1D3MmZyl-5apQudunyvnNIqA7POWyvrhS/view?usp=share_link" target="_blank">Full paper</a>
   <details open>
     <summary>Abstract</summary>
@@ -18,6 +19,7 @@ class: wide
 ## Working Papers
 
 * **In and Out of the Public Sector: The Impact of Revolving Doors in the EU**, with <a href="https://sites.google.com/view/jeanne-bomare/about" target="_blank">Jeanne Bomare</a>
+
   <a href="https://drive.google.com/file/d/1HjkZYRVc-A9dSMVSIErgGKRvXgPxpE1U/view?usp=share_link" target="_blank">Full paper</a>
   <details>
     <summary>Abstract</summary>
@@ -26,6 +28,7 @@ class: wide
   <a href="/assets/download/2-24243_Certificat.pdf" target="_blank">Data Registration Certificate</a>
 
 * **Choosing Legislative Capacity: A Theoretical Model**, with <a href="http://www.davidfortunato.com" target = "_blank">David Fortunato</a> and <a href="https://fhollenbach.org" target = "_blank">Florian Hollenbach</a>
+
   <a href="https://drive.google.com/file/d/1wrtv5oafxTCjytU7-dsuToBAgc_T3cyw/view?usp=share_link" target="_blank">Full paper</a>
   <details>
     <summary>Abstract</summary>
