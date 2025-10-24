@@ -17,15 +17,15 @@ classes: wide
 
 ## Working Papers
 
-* **In and Out of the Public Sector: The Impact of Revolving Doors in the EU**, with <a href="https://sites.google.com/view/jeanne-bomare/about" target="_blank">Jeanne Bomare</a><br />
-  <a href="https://drive.google.com/file/d/1HjkZYRVc-A9dSMVSIErgGKRvXgPxpE1U/view?usp=share_link" target="_blank">Full paper</a> --- <a href="/assets/download/2-24243_Certificat.pdf" target="_blank">Data Registration Certificate</a>
+* **In and Out of the Public Sector: The Impact of Revolving Doors in the EU**, with <a href="https://sites.google.com/view/jeanne-bomare/about" target="_blank">J. Bomare</a><br />
+  <a href="https://drive.google.com/file/d/1HjkZYRVc-A9dSMVSIErgGKRvXgPxpE1U/view?usp=share_link" target="_blank">Full paper</a> -- <a href="/assets/download/2-24243_Certificat.pdf" target="_blank">Data Registration Certificate</a>
   <details>
     <summary>Abstract</summary>
     This paper studies the impact of employee mobility between the European Union (EU) public sector and non-EU organizations on access to EU policymakers and EU funding. We use data from the professional network LinkedIn to identify moves across all EU hierarchy levels, both in the direction of entering and exiting the EU public sector. We identify more than 50,000 moves between 74 EU institutions and bodies and the private sector, over the 2014-2023 period. Using a dynamic difference-in-differences estimator accounting for multiple treatments, we find that hiring EU staff increases the probability of obtaining EU procurement contracts or EU grants. Moves in the opposite direction have no effect on access to EU funding, suggesting that benefits of the hire come from acquiring insider knowledge. Additionally, moves from and to the EU Commission staff significantly boosts engagement with the Commission, but these effects are short-lived. The symmetry and timing of these results suggest that they are driven by the network gained through these moves.
   </details>
   <br />
 
-* **Choosing Legislative Capacity: A Theoretical Model**, with <a href="http://www.davidfortunato.com" target = "_blank">David Fortunato</a> and <a href="https://fhollenbach.org" target = "_blank">Florian Hollenbach</a><br />
+* **Choosing Legislative Capacity: A Theoretical Model**, with <a href="http://www.davidfortunato.com" target = "_blank">D. Fortunato</a> and <a href="https://fhollenbach.org" target = "_blank">F. Hollenbach</a><br />
   <a href="https://drive.google.com/file/d/1wrtv5oafxTCjytU7-dsuToBAgc_T3cyw/view?usp=share_link" target="_blank">Full paper</a>
   <details>
     <summary>Abstract</summary>
@@ -43,7 +43,7 @@ classes: wide
 
 ## Work in Progress
 
-* **Legislative Capacity Across OECD Member States**, with <a href="http://www.davidfortunato.com" target = "_blank">David Fortunato</a> and <a href="https://fhollenbach.org" target = "_blank">Florian Hollenbach</a>
+* **Legislative Capacity Across OECD Member States**, with <a href="http://www.davidfortunato.com" target = "_blank">D. Fortunato</a> and <a href="https://fhollenbach.org" target = "_blank">F. Hollenbach</a>
   <details>
     <summary>Abstract</summary>
     Legislatures vary in their capacity for detailed design and scrutiny of draft bills and oversight of the bureaucracy as a function of their formal powers and their endowment of tangible resources for legislative work. These resource endowments, such as member salaries, budgets for legislative staff, and session days, have been shown to be powerful predictors of interbranch interactions and legislative outcomes, but applied research is almost entirely limited to the study of (subnational) state governments in the US. We present new data on these resources for the national legislatures of OECD member states for the last several decades, documenting remarkable variability across units, as well as within-units over time. This variation in resource endowments presents substantial opportunity for new research in comparative political economy.
@@ -51,15 +51,15 @@ classes: wide
 _Upcoming Presentations: DPSA (November 24th, 2025)_
   <br />
 
-* **Fragmented Voices: The City of London and Post-Brexit Financial Negotiations**, with <a href="http://janagritters.com" target = "_blank">Jana Grittersova</a><br/>_Upcoming Presentations: IPES (October 17th, 2025)_
+* **Fragmented Voices: The City of London and Post-Brexit Financial Negotiations**, with <a href="http://janagritters.com" target = "_blank">J. Grittersova</a><br/>_Upcoming Presentations: IPES (October 17th, 2025)_
   <br />
 
-* **Who lays down the law? Informational lobbying in the French assembly**, with <a href="https://www.parisschoolofeconomics.eu/personnes/clement-gras/" target = "_blank">Clément Gras</a>
+* **Who lays down the law? Informational lobbying in the French assembly**, with <a href="https://www.parisschoolofeconomics.eu/personnes/clement-gras/" target = "_blank">C. Gras</a>
   <br />
 
 ## Non-Academic Publications
 
-* **Trajectoires vers l’objectif zéro artificialisation nette. Éléments de méthode.** (Paths to net zero land take. Methodology.), _CGDD_, 2019, with <a href="https://cepr.org/about/people/adam-baiz" target="_blank">Adam Baïz</a>, <a href="https://www.researchgate.net/profile/Charles-Claron-2" target="_blank">Charles Claron</a> and Géraldine Ducos. \[<a href="https://drive.google.com/file/d/14M3AHTfMYCSh7YZ_6N1MzLCJ58aeVsdG/view?usp=sharing" target="_blank">PDF</a>\]<br/>_Media coverage:_ <a href="https://www.lesechos.fr/industrie-services/energie-environnement/biodiversite-comment-la-france-pourrait-cesser-dartificialiser-ses-terres-en-2050-1159049" target="_blank">Les Echos</a>.
+* **Trajectoires vers l’objectif zéro artificialisation nette. Éléments de méthode.** (Paths to net zero land take. Methodology.), _CGDD_, 2019, with <a href="https://cepr.org/about/people/adam-baiz" target="_blank">A. Baïz</a>, <a href="https://www.researchgate.net/profile/Charles-Claron-2" target="_blank">C. Claron</a> and G. Ducos. \[<a href="https://drive.google.com/file/d/14M3AHTfMYCSh7YZ_6N1MzLCJ58aeVsdG/view?usp=sharing" target="_blank">PDF</a>\]<br/>_Media coverage:_ <a href="https://www.lesechos.fr/industrie-services/energie-environnement/biodiversite-comment-la-france-pourrait-cesser-dartificialiser-ses-terres-en-2050-1159049" target="_blank">Les Echos</a>.
  <br />
 
 * **Objectif zéro artificialisation nette: quels leviers pour protéger les sols?** (Net zero land take objective: what levers for soil protection?), 2019, France Stratégie. \[<a href="https://www.strategie.gouv.fr/publications/objectif-zero-artificialisation-nette-leviers-proteger-sols" target="_blank">PDF</a>\]<br/>_Media coverage:_ <a href="https://www.lemonde.fr/planete/article/2019/08/02/la-france-face-aux-risques-de-la-betonisation-galopante_5495906_3244.html" target="_blank">Le Monde</a>.
