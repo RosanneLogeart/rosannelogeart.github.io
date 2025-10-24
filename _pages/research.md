@@ -13,7 +13,7 @@ author_profile: true
   </details>
   <br />
 
-  ## Working Papers
+## Working Papers
 
 * <a href="https://drive.google.com/file/d/1HjkZYRVc-A9dSMVSIErgGKRvXgPxpE1U/view?usp=share_link" target="_blank">**In and Out of the Public Sector: The Impact of Revolving Doors in the EU**</a>, with <a href="https://sites.google.com/view/jeanne-bomare/about" target="_blank">Jeanne Bomare</a>
   <details>
