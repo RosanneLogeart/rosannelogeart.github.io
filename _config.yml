@@ -211,6 +211,7 @@ defaults:
       type: posts
     values:
       layout: single
+      class: wide
       author_profile: true
       read_time: true
       comments: true
@@ -230,6 +231,7 @@ defaults:
       type: teaching
     values:
       layout: single
+      class: wide
       author_profile: true
       share: true
       comments: true
