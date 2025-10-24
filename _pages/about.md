@@ -18,4 +18,4 @@ Welcome to my website!
 
 * You can find my CV [here](https://drive.google.com/file/d/1kwgoyTCs-K1QaPVD9JN_2dbvUhTeVCeQ/view?usp=share_link){:target="_blank"} and contact me at *rosanne.logeart(at)psemail.eu*.
 
-
+**I am on the 2025-2026 academic job market.**
