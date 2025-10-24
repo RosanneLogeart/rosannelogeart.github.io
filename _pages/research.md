@@ -2,7 +2,7 @@
 permalink: /research/
 title: "Research"
 author_profile: true
-class: wide
+classes: wide
 ---
 
 ## Job Market Paper
