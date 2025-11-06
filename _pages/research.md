@@ -51,10 +51,14 @@ classes: wide
 _Upcoming Presentations: DPSA (November 24th, 2025)_
   <br />
 
-* **Fragmented Voices: The City of London and Post-Brexit Financial Negotiations**, with <a href="http://janagritters.com" target = "_blank">J. Grittersova</a><br/>_Upcoming Presentations: IPES (October 17th, 2025)_
+* **Who lays down the law? Informational lobbying in the French assembly**, with <a href="https://www.parisschoolofeconomics.eu/personnes/clement-gras/" target = "_blank">C. Gras</a>
+  <details>
+    <summary>Abstract</summary>
+    This article analyzes informational lobbying within the French legislative process. Since 1995, political parties in France have been prohibited from receiving donations from legal entities. We compile novel datasets from the French legislative chambers and the public transparency authority, to connect lobbyists' efforts to legislative outputs from the members of parliament. We analyze the textual content of amendments alongside 69,763 declarations of interest representation activity using state-of-the-art natural language processing techniques. We shed light on the influence of informational lobbying on legislative content, both when it is sourced and when it is hidden. We assess how parliamentarians' time and resource constraints make them more or less dependent on lobbyists to shape legislation.
+  </details>
   <br />
 
-* **Who lays down the law? Informational lobbying in the French assembly**, with <a href="https://www.parisschoolofeconomics.eu/personnes/clement-gras/" target = "_blank">C. Gras</a>
+* **Fragmented Voices: The City of London and Post-Brexit Financial Negotiations**, with <a href="http://janagritters.com" target = "_blank">J. Grittersova</a><br/>_Upcoming Presentations: IPES (October 17th, 2025)_
   <br />
 
 ## Non-Academic Publications
