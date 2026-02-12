@@ -34,7 +34,6 @@ classes: wide
   <br />
 
 * **Strategic Complementarity in NGO Advocacy: Theory and evidence from the European Commission**<br />
-  <a href="https://drive.google.com/file/d/1TMuBChl4PwttQ6KEpjEPqr0LpcYuBNOj/view?usp=share_link" target="_blank">Full paper</a>
   <details>
     <summary>Abstract</summary>
     This article analyzes the advocacy strategies of environmental non-governmental organizations (ENGOs). I develop a model in which ENGOs can engage in costly advocacy activities to foster pro-environmental policy changes on different dimensions. The model gives insights on their optimal advocacy strategies, and their reaction functions to lobbying from other actors. Combining data on meetings with European Commission members and textual analysis to measure lobbying efforts on different topics, I find support for strategic complementarity of ENGOs efforts. ENGOs also seem to drive the lobbying agenda of the business sector on environmental topics.
@@ -48,7 +47,6 @@ classes: wide
     <summary>Abstract</summary>
     Legislatures vary in their capacity for detailed design and scrutiny of draft bills and oversight of the bureaucracy as a function of their formal powers and their endowment of tangible resources for legislative work. These resource endowments, such as member salaries, budgets for legislative staff, and session days, have been shown to be powerful predictors of interbranch interactions and legislative outcomes, but applied research is almost entirely limited to the study of (subnational) state governments in the US. We present new data on these resources for the national legislatures of OECD member states for the last several decades, documenting remarkable variability across units, as well as within-units over time. This variation in resource endowments presents substantial opportunity for new research in comparative political economy.
   </details>
-_Upcoming Presentations: DPSA (November 24th, 2025)_
   <br />
 
 * **Who lays down the law? Informational lobbying in the French assembly**, with <a href="https://www.parisschoolofeconomics.eu/personnes/clement-gras/" target = "_blank">C. Gras</a>
@@ -58,7 +56,7 @@ _Upcoming Presentations: DPSA (November 24th, 2025)_
   </details>
   <br />
 
-* **Fragmented Voices: The City of London and Post-Brexit Financial Negotiations**, with <a href="http://janagritters.com" target = "_blank">J. Grittersova</a><br/>_Upcoming Presentations: IPES (October 17th, 2025)_
+* **Fragmented Voices: The City of London and Post-Brexit Financial Negotiations**, with <a href="http://janagritters.com" target = "_blank">J. Grittersova</a>
   <br />
 
 ## Non-Academic Publications
