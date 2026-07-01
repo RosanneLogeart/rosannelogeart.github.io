@@ -5,17 +5,16 @@ author_profile: true
 classes: wide
 ---
 
-## Job Market Paper
+## Working Papers
+
 
 * **Does Access Mean Success? Political Connections and Influence** <br />
-  <a href="https://drive.google.com/file/d/1D3MmZyl-5apQudunyvnNIqA7POWyvrhS/view?usp=share_link" target="_blank">Full paper</a>
+  <a href="https://shs.hal.science/halshs-05669528" target="_blank">HAL Working Paper</a>
   <details open>
     <summary>Abstract</summary>
-    This paper studies how access to policymakers shapes lobbying success and the role political connections play, using evidence from European Commission regulations. I compile a new dataset of public comments on draft regulations and apply natural language processing tools to detect stakeholders' influence on final regulations. Combined with data on meetings with Commission members to capture access, I show that access significantly increases the probability of success, especially for organizations with more frequent interactions. Exploiting both changes in officeholders and within-organization variation in active connections, I find that information transmission cannot explain the effect and that political connections are a key driver of success through access.
+    This paper studies how access to policymakers shapes lobbying success and the role political connections play, using evidence from European Commission regulations. I compile a new dataset of public comments on draft regulations and apply natural language processing tools to detect stakeholders' influence on final regulations. Combined with data on meetings with Commission members to capture access, I show that access significantly increases the probability of success, especially for organizations with more frequent interactions. Exploiting both changes in officeholders and within-organization variation in active connections, I find that information transmission cannot explain the effect and that political connections are the key channel through which access to policymakers translates into lobbying success.
   </details>
   <br />
-
-## Working Papers
 
 * **In and Out of the Public Sector: The Impact of Revolving Doors in the EU**, with <a href="https://sites.google.com/view/jeanne-bomare/about" target="_blank">J. Bomare</a><br />
   <a href="https://drive.google.com/file/d/1HjkZYRVc-A9dSMVSIErgGKRvXgPxpE1U/view?usp=share_link" target="_blank">Full paper</a> -- <a href="/assets/download/2-24243_Certificat.pdf" target="_blank">Data Registration Certificate</a>
