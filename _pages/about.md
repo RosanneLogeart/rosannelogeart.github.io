@@ -17,4 +17,4 @@ Welcome to my website!
 
 * My [research](/research/) lies in the field of **political economy**, with a strong interest in **influence**. In particular, I investigate how much **information transmission** or **political connections** can explain lobbying success. I also study the impact of **revolving doors** and the choices of parliaments upon their **legislative capacity**. To conduct my research, I compile new [data](/databases/) that I study using natural language processing tools.
 
-* You can find my CV [here](https://drive.google.com/file/d/1kwgoyTCs-K1QaPVD9JN_2dbvUhTeVCeQ/view?usp=share_link){:target="_blank"} and contact me at *rosanne.logeart(at)psemail.eu*.
+* You can find my CV [here](https://drive.google.com/file/d/1kwgoyTCs-K1QaPVD9JN_2dbvUhTeVCeQ/view?usp=share_link){:target="_blank"} and contact me at *rosanne.logeart(at)gmail.com*.
