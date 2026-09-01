@@ -96,11 +96,11 @@ author:
   name             : "Rosanne Logeart"
   avatar           : "../assets/images/rosannelogeart.png"
   bio              : "Postdoc"
-  location         : "Copenhagen, Denmark"
+  location         : "Oslo, Norway"
   employer         : # "Copenhagen Business School"
   pubmed           : 
-  googlescholar    : 
-  email            : "rosanne.logeart@psemail.eu"
+  googlescholar    : "https://scholar.google.com/citations?user=QN7hZBUAAAAJ&hl=en"
+  email            : "rosanne.logeart@econ.uio.no"
   researchgate     : "https://www.researchgate.net/profile/Rosanne-Logeart?ev=hdr_xprf"
   uri              :
   bitbucket        :
